@@ -32,10 +32,8 @@
               "RelativeDocumentMoniker": "scripts\\reset-project.js",
               "ToolTip": "C:\\Users\\fatma\\OneDrive\\Desktop\\React Native\\pet-adopt-app\\scripts\\reset-project.js",
               "RelativeToolTip": "scripts\\reset-project.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-17T08:51:47.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T08:51:47.424Z"
             },
             {
               "$type": "Document",
@@ -47,8 +45,11 @@
               "RelativeToolTip": "app\\_layout.tsx",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-17T08:50:52.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T08:50:52.303Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
