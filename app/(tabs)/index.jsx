@@ -6,7 +6,7 @@ export default function Index() {
       { flex: 1, }
     }>
       <Link href="/Login">
-        <Text>Go To Login Screen</Text>
+        <Text>Go To Login Screen </Text>
       </Link>
 
 
