@@ -3,7 +3,9 @@
     "",
     "\\app",
     "\\app\\(tabs)",
-    "\\assets"
+    "\\assets",
+    "\\constants"
   ],
+  "SelectedNode": "\\app\\(tabs)",
   "PreviewInSolutionExplorer": false
 }
